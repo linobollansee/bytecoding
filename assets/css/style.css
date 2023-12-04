@@ -180,7 +180,7 @@ main {
 
 /* circle cover background two added */
 #circle-cover-bg-two {
-    background: url('../images/two-women-looking-at-the-code-at-laptop-1181263.jpg') no-repeat top center / cover;
+    background: url('../images/two-women-looking-at-the-code-at-laptop-1181263.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -233,7 +233,7 @@ main {
 
 /* Form */
 #signup {
-    background-image: url("../images/female-software-engineer-coding-on-computer-3861963.jpg");
+    background-image: url("../images/female-software-engineer-coding-on-computer-3861963.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
