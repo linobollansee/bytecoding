@@ -2,7 +2,7 @@
 
 Welcome to Bytecoding, your coding school for mastering HTML, CSS, JavaScript, and Python. At Bytecoding, we emphasize the practical applications of these essential languages. HTML forms the structure, CSS styles the presentation, and JavaScript adds interactivity to web pages. This transformative journey involves hands-on experiences, where you sculpt code to optimize user interfaces and enhance user experiences. Understanding these languages is not just about syntax; it's about practical skills that empower you to navigate GitHub, collaborate on projects, and participate effectively in the dynamic realm of software development. Join Bytecoding, where proficiency in HTML, CSS, JavaScript, and Python unlocks the doors to innovative and collaborative possibilities.
 
-![Responsive Bytecoding Mockup](https://github.com/linobollansee/readme/media/bytecoding_mockup.png)
+![Responsive Bytecoding Mockup](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_mockup.png)
 
 ## Features
 
@@ -16,7 +16,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
   - This functionality allows users to effortlessly move between pages on any device, eliminating the necessity of depending on the 'back' button to revert to the prior page.
 
-![Navigation bar](https://github.com/linobollansee/readme/media/bytecoding_nav.png)
+![Navigation bar](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_nav.png)
 
 - __The landing page image__
 
@@ -24,19 +24,19 @@ In our project, we've integrated key features to cater to the needs of our users
   
   - The magenta background offers a high-contrast backdrop for the cover text on the main page image, enhancing readability.
 
-![Main page image](https://github.com/linobollansee/readme/media/bytecoding_landing.png)
+![Main page image](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_landing.png)
 
 - __Bytecoding Programs__
 
   - The Program section of the Bytecoding website offers insights into various programming languages, including HTML, CSS, JavaScript, and Python. Each language is explored to provide students with a comprehensive understanding of its functionalities and applications. Whether delving into the structure of web pages with HTML, enhancing styling with CSS, implementing dynamic behavior with JavaScript, or delving into versatile scripting with Python, Bytecoding's program section serves as a valuable resource of knowledge across a spectrum of programming disciplines.
 
-![Bytecoding Programs](https://github.com/linobollansee/readme/media/bytecoding_programs.png)
+![Bytecoding Programs](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_programs.png)
 
 - __Bytecoding Schedules__
 
   - At the bottom of the programs page, visitors can find a convenient display showcasing the current time schedules. This feature is designed to provide users with up-to-date information on program timings, allowing them to plan their engagements and make the most of the available learning opportunities.
 
-![Bytecoding Schedules](https://github.com/linobollansee/readme/media/bytecoding_schedules.png)
+![Bytecoding Schedules](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_schedules.png)
 
 - __The Footer__
 
@@ -46,19 +46,19 @@ In our project, we've integrated key features to cater to the needs of our users
   
   - They open in new browser windows, guaranteeing that the Bytecoding website itself stays accessible.
 
-![Footer](https://github.com/linobollansee/readme/media/bytecoding_footer.png)
+![Footer](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_footer.png)
 
 - __Gallery__
 
   - The gallery displays students actively engaging with the diverse Bytecoding programs.
 
-![Gallery](https://github.com/linobollansee/readme/media/bytecoding_gallery.png)
+![Gallery](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_gallery.png)
 
 - __The Enroll Page__
 
   - The Enroll page facilitates registration at Bytecoding, enabling individuals to embark on their coding journey. Users can indicate their coding preference among HTML, Javascript, and Python. Additionally, they will be prompted to provide their full name and email address during the enrollment process.
 
-![Enroll](https://github.com/linobollansee/readme/media/bytecoding_enroll.png)
+![Enroll](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_enroll.png)
 
 ### Features Left to Implement
 
@@ -70,7 +70,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 - Although low-resolution devices may not allow for the full display of the main page image, it still maintains an aesthetically pleasing appearance, and the menu remains user-friendly.
 
-![Bytecoding Testing](https://github.com/linobollansee/readme/media/bytecoding_testing.png)
+![Bytecoding Testing](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_testing.png)
 
 ### Validator Testing
 
