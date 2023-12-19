@@ -405,7 +405,6 @@ main {
     }
 
     #benefits-two>div {
-        text-align: end;
         align-self: flex-end;
     }
 
