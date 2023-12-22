@@ -121,6 +121,10 @@ You can access the live link at this location. - [https://linobollansee.github.i
 
   - The Slack community of the Code Institute deserves recognition for providing a rich pool of knowledge on project approach and conceptualization. Members actively contribute by sharing their own projects and files, adding substantial value to the collective learning experience.
 
+- **Code Institute: Student Support: Mentor Guidance**
+  
+  - The Code Institute provided three sessions with mentor Dick Vlaanderen whose experience and guidance helped refine and verify the website's presentation and functionality aspects, contributing to the overall success of the project.
+
 - **[ChatGPT 3.5](https://chat.openai.com/)**
 
   - The text content on the Bytecoding website and its README.md owes much to the collaborative efforts of Lino Bollansee and OpenAI's ChatGPT 3.5. Lino Bollansee's distinctive insights, expertise, and writing style provided the initial groundwork for the content. Subsequently, ChatGPT was utilized to refine the material, utilizing its language generation capabilities to enhance structure, ensure coherence, and elevate the overall writing quality.
