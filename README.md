@@ -10,7 +10,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ### Existing Features
 
-- __Navigation Bar__
+- **Navigation Bar**
 
   - Consistently showcased on all four pages, the entirely responsive navigation bar features links to the Main page, Programs page, Gallery page, and Enroll page, guaranteeing seamless navigation across the entire site.
 
@@ -18,43 +18,43 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ![Navigation bar](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_nav.png)
 
-- __The landing page image__
+- **The landing page image**
 
   - On the main page, the image showcases the immersive programming environment that awaits students.
-  
+
   - The magenta background offers a high-contrast backdrop for the cover text on the main page image, enhancing readability.
 
 ![Main page image](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_landing.png)
 
-- __Bytecoding Programs__
+- **Bytecoding Programs**
 
   - The Program section of the Bytecoding website offers insights into various programming languages, including HTML, CSS, JavaScript, and Python. Each language is explored to provide students with a comprehensive understanding of its functionalities and applications. Whether delving into the structure of web pages with HTML, enhancing styling with CSS, implementing dynamic behavior with JavaScript, or delving into versatile scripting with Python, Bytecoding's program section serves as a valuable resource of knowledge across a spectrum of programming disciplines.
 
 ![Bytecoding Programs](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_programs.png)
 
-- __Bytecoding Schedules__
+- **Bytecoding Schedules**
 
   - At the bottom of the programs page, visitors can find a convenient display showcasing the current time schedules. This feature is designed to provide users with up-to-date information on program timings, allowing them to plan their engagements and make the most of the available learning opportunities.
 
 ![Bytecoding Schedules](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_schedules.png)
 
-- __The Footer__
+- **The Footer**
 
   - In the footer section, Bytecoding offers a convenient compilation of relevant platforms that students are encouraged to utilize for enhanced engagement and connectivity.
-  
+
   - These platforms include Facebook, Git, Instagram, Skype, Telegram, Twitter, WhatsApp, and YouTube.
-  
+
   - They open in new browser windows, guaranteeing that the Bytecoding website itself stays accessible.
 
 ![Footer](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_footer.png)
 
-- __Gallery__
+- **Gallery**
 
   - The gallery displays students actively engaging with the diverse Bytecoding programs.
 
 ![Gallery](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_gallery.png)
 
-- __The Enroll Page__
+- **The Enroll Page**
 
   - The Enroll page facilitates registration at Bytecoding, enabling individuals to embark on their coding journey. Users can indicate their coding preference among HTML, Javascript, and Python. Additionally, they will be prompted to provide their full name and email address during the enrollment process.
 
@@ -75,6 +75,7 @@ In our project, we've integrated key features to cater to the needs of our users
 ### Validator Testing
 
 - HTML
+
   - No errors were detected when testing with the official [W3C validator](https://validator.w3.org/)
   - [https://validator.w3.org/nu/?doc=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Findex.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Findex.html)
   - [https://validator.w3.org/nu/?doc=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Fprograms.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Fprograms.html)
@@ -103,46 +104,57 @@ You can access the live link at this location. - [https://linobollansee.github.i
 
 ### Content
 
-- __[Code Institute: Learning Management System](https://learn.codeinstitute.net/)__
-  - The development of the Bytecoding website has been greatly enriched by the invaluable lessons emanating from
-the Code Institute LMS (Learning Management System). Drawing upon the extensive knowledge and expertise available on the Code Institute's learning platform, the advice received has played a pivotal role in shaping the design, functionality, and overall user experience. From best practices in web development and coding techniques to insights on user engagement and accessibility.
+- **[Code Institute: Learning Management System](https://learn.codeinstitute.net/)**
 
-- __[Code Institute: Love Running project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)__
+  - The development of the Bytecoding website has been greatly enriched by the invaluable lessons emanating from
+    the Code Institute LMS (Learning Management System). Drawing upon the extensive knowledge and expertise available on the Code Institute's learning platform, the advice received has played a pivotal role in shaping the design, functionality, and overall user experience. From best practices in web development and coding techniques to insights on user engagement and accessibility.
+
+- **[Code Institute: Love Running project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)**
+
   - The creation of the Bytecoding website was enriched by incorporating HTML and CSS, in particular for the responsiveness on different devices, from the Love Running project sourced from the Code Institute's repository at GitHub. Leveraging the Love Running project provided valuable insights, functionalities, and design components that contributed to the overall development and enhancement.
 
-- __[Code Institute: Readme Template](https://github.com/Code-Institute-Solutions/readme-template)__
+- **[Code Institute: Readme Template](https://github.com/Code-Institute-Solutions/readme-template)**
+
   - The creation of the README.md file was facilitated through the utilization of the Code Institute's README.md template. Leveraging this template provided a structured and comprehensive framework for documenting the project. By aligning with the Code Institute's recommended format, the README.md file not only adheres to best practices but also ensures clarity and consistency in conveying essential information about the project.
 
-- __[Code Institute: Slack community](https://code-institute-room.slack.com/)__
+- **[Code Institute: Slack community](https://code-institute-room.slack.com/)**
+
   - The Slack community of the Code Institute deserves recognition for providing a rich pool of knowledge on project approach and conceptualization. Members actively contribute by sharing their own projects and files, adding substantial value to the collective learning experience.
 
-- __[ChatGPT 3.5](https://chat.openai.com/)__
+- **[ChatGPT 3.5](https://chat.openai.com/)**
+
   - The text content on the Bytecoding website and its README.md owes much to the collaborative efforts of Lino Bollansee and OpenAI's ChatGPT 3.5. Lino Bollansee's distinctive insights, expertise, and writing style provided the initial groundwork for the content. Subsequently, ChatGPT was utilized to refine the material, utilizing its language generation capabilities to enhance structure, ensure coherence, and elevate the overall writing quality.
 
-- __[W3Schools CSS](https://www.w3schools.com/css/default.asp)__
+- **[W3Schools CSS](https://www.w3schools.com/css/default.asp)**
+
   - The cascading style sheets (CSS) syntax employed in creating the visual presentation of the Bytecoding logo has been sourced from the reputable and educational platform, W3Schools.
   - [CSS Shadow Effects](https://www.w3schools.com/css/css3_shadows.asp)
 
-- __[Codeanywhere](https://app.codeanywhere.com/)__
+- **[Codeanywhere](https://app.codeanywhere.com/)**
+
   - Codeanywhere's cloud-based development environment played a pivotal role in the creation of the Bytecoding website by offering a flexible and collaborative platform for coding. Codeanywhere was utilized to seamlessly write, edit, and run code directly from a web browser, eliminating the need for a dedicated local development environment.
 
-- __[Visual Studio Code](https://visualstudio.microsoft.com/)__
+- **[Visual Studio Code](https://visualstudio.microsoft.com/)**
+
   - During routine planned maintenance at Codeanywhere, the online cloud-based integrated development environment experienced a temporary unavailability. In response to this situation, an offline alternative was found: Visual Studio Code. This ensured uninterrupted workflow, allowing work to proceed without any disruption.
 
-- __[GitHub](https://github.com/)__
+- **[GitHub](https://github.com/)**
   - GitHub serves as a robust hosting platform for the Bytecoding website, offering a centralized repository and comprehensive version control features. The website's source code is securely stored on GitHub, providing a space where developers can easily manage changes, track revisions, and coordinate efforts. The platform's web hosting functionality ensures that the Bytecoding website is easily accessible to users globally.
 
 ### Media
 
-- __[Pexels](https://www.pexels.com/)__
+- **[Pexels](https://www.pexels.com/)**
+
   - The captivating visuals featured on the Bytecoding website have been sourced from the reputable and high-quality stock photography website, Pexels.com. By leveraging the diverse and visually stunning images available on Pexels, this content aims to enhance the overall user experience, providing a visually appealing and engaging environment. Pexels is renowned for offering a vast collection of royalty-free images contributed by talented photographers, making it a valuable resource for content creators seeking professional and aesthetically pleasing visuals. The inclusion of images from Pexels not only adds visual richness to the content but also upholds a commitment to utilizing resources that adhere to ethical and legal standards in the realm of digital media.
 
-- __[Google Fonts](https://fonts.google.com/)__
+- **[Google Fonts](https://fonts.google.com/)**
+
   - The typography on the Bytecoding website been selected from the vast array of fonts offered by Google Fonts, a renowned and user-friendly font library. By leveraging Google Fonts, the website benefits from a typefaces that not only enhance the visual appeal but also contribute to a seamless and legible reading experience.
   - [Lato Google Font](https://fonts.google.com/specimen/Lato)
   - [Oswald Google Font](https://fonts.google.com/specimen/Oswald)
 
-- __[Font Awesome](https://fontawesome.com/)__
+- **[Font Awesome](https://fontawesome.com/)**
+
   - The vibrant and visually appealing icons adorning the Bytecoding website have been meticulously curated and sourced from Font Awesome, a renowned and comprehensive icon library. Font Awesome, known for its extensive collection of scalable vector icons that can be customized effortlessly, provides a rich resource for web designers and developers. By integrating Font Awesome icons, a seamless blend of aesthetics and functionality is achieved, enhancing the user experience with intuitive and recognizable symbols.
   - [circle-chevron-down](https://fontawesome.com/icons/circle-chevron-down?f=classic&s=solid)
   - [microchip](https://fontawesome.com/icons/microchip?f=classic&s=solid)
@@ -162,18 +174,24 @@ the Code Institute LMS (Learning Management System). Drawing upon the extensive 
   - [js](https://fontawesome.com/icons/js?f=brands&s=solid)
   - [python](https://fontawesome.com/icons/python?f=brands&s=solid)
 
-- __[Favicon Converter](https://favicon.io/favicon-converter/)__
+- **[Favicon Converter](https://favicon.io/favicon-converter/)**
+
   - The captivating favicons gracing the Bytecoding website were generated using the efficient and user-friendly online tool, Favicon.io's Favicon Converter. Leveraging the Favicon Converter, the distinctive favicons were effortlessly created to ensure a visually appealing and recognizable representation across various browsers and devices.
   - [apple touch icon](https://linobollansee.github.io/bytecoding/assets/favicon/apple-touch-icon.png)
   - [favicon 32x32](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-32x32.png)
   - [favicon 16x16](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-16x16.png)
 
-- __[Pixelied JPG to WEBP Converter](https://pixelied.com/convert/jpg-converter/jpg-to-webp/)__
+- **[Pixelied JPG to WEBP Converter](https://pixelied.com/convert/jpg-converter/jpg-to-webp/)**
+
   - The use of Pixelied JPG to WEBP Converter played a pivotal role in optimizing the image files utilized on the Bytecoding website. Leveraging its advanced technology and user-friendly interface, Pixelied enabled a seamless conversion of JPG images to the WebP format, known for its superior compression capabilities. This transformation significantly reduced the file sizes of the images without compromising their visual quality. Consequently, the website experienced notable improvements in loading times, contributing to a more efficient and user-friendly online environment. Pixelied's innovative solution not only streamlined the image optimization process but also ensured that the website maintained high-quality visuals, enhancing the overall user experience. As a result, the Pixelied JPG to WEBP Converter emerged as a valuable tool in the optimization strategy, demonstrating its effectiveness in enhancing the website's performance through efficient image file compression.
 
-- __[Balsamiq Wireframes](https://balsamiq.com/wireframes/)__
+- **[Balsamiq Wireframes](https://balsamiq.com/wireframes/)**
+
   - The Bytecoding website's pages were meticulously designed using Balsamiq Wireframe software, a powerful tool that simplifies the prototyping process. Leveraging the intuitive interface of Balsamiq, Lino Bollansee seamlessly translated conceptual ideas into visually dynamic wireframes, providing a tangible representation of the website's layout and functionality.
-  - ![wireframes](https://linobollansee.github.io/bytecoding/readme/media/wireframes.png)
+  - ![wireframes](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_wireframes.png)
+
+- **[Am I Responsive? - ui.dev](https://ui.dev/amiresponsive)**
+  - Am I Responsive?, a web tool hosted on ui.dev, provides an invaluable resource for developers looking to enhance the presentation of their projects in README.md files. Developed by ui.dev, this user-friendly platform simplifies the process of showcasing website responsiveness across a variety of devices, contributing significantly to the overall professional presentation of projects.
 
 ## Other General Project Advice
 
