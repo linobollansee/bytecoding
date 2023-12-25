@@ -66,6 +66,10 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ## Testing
 
+- To test the Bytecoding website on the cloud-based Integrated Development Environment (IDE) Codeanywhere, the command "python3 -m http.server" was employed in the terminal window. This command initiated a simple HTTP server using Python version 3. By executing this command, the HTTP server started, allowing for easy access to the site through a web browser. This method of testing provided a quick and convenient way to preview the Bytecoding site in a web environment, ensuring that it functioned correctly and allowing for real-time evaluation of its appearance and functionality.
+
+- Alternatively, the Bytecoding website was tested on a computer by utilizing a local copy of the HTML and CSS files. This approach functions thanks to the use of relative paths within the source code. However, this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. Local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
+
 - The website underwent comprehensive testing using Google Chrome DevTools to ensure optimal performance across various devices. Employing this versatile tool allowed for the simulation of diverse device environments, including smartphones, tablets, and desktops. By emulating different screen sizes, resolutions, and user agent settings, the testing process aimed to identify and address any potential layout or functionality issues that might arise on distinct devices.
 
 - Although low-resolution devices may not allow for the full display of the main page image, it still maintains an aesthetically pleasing appearance, and the menu remains user-friendly.
@@ -122,7 +126,7 @@ You can access the live link at this location. - [https://linobollansee.github.i
   - The Slack community of the Code Institute deserves recognition for providing a rich pool of knowledge on project approach and conceptualization. Members actively contribute by sharing their own projects and files, adding substantial value to the collective learning experience.
 
 - **Code Institute: Student Support: Mentor Guidance**
-  
+
   - The Code Institute provided three sessions with mentor Dick Vlaanderen whose experience and guidance helped refine and verify the website's presentation and functionality aspects, contributing to the overall success of the project.
 
 - **[ChatGPT 3.5](https://chat.openai.com/)**
