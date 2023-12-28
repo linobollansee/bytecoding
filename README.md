@@ -30,7 +30,6 @@ In our project, we've integrated key features to cater to the needs of our users
   - Discover compelling reasons to choose Bytecoding on the main page, including microchips, mobile devices, artificial intelligence, and github.
 
 ![Bytecoding Why Code With Us?](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_why.png)
-  
 
 - **Bytecoding Programs**
 
