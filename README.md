@@ -26,6 +26,12 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ![Main page image](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_landing.png)
 
+- **Bytecoding Why Code With Us?**
+  - Discover compelling reasons to choose Bytecoding on the main page, including microchips, mobile devices, artificial intelligence, and github.
+
+![Bytecoding Why Code With Us?](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_why.png)
+  
+
 - **Bytecoding Programs**
 
   - The Program section of the Bytecoding website offers insights into various programming languages, including HTML, CSS, JavaScript, and Python. Each language is explored to provide students with a comprehensive understanding of its functionalities and applications. Whether delving into the structure of web pages with HTML, enhancing styling with CSS, implementing dynamic behavior with JavaScript, or delving into versatile scripting with Python, Bytecoding's program section serves as a valuable resource of knowledge across a spectrum of programming disciplines.
