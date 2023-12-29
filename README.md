@@ -104,8 +104,8 @@ Upon inspection, the code seems to be devoid of any bugs, indicating a solid fou
 
 - Deployment to GitHub Pages was completed for the site. The deployment process involves the following steps:
   - Within the GitHub repository, access the Settings tab.
-  - Choose the Pages tab, set the Master Branch from the dropdown menu in the source section.
-  - After selecting the master branch, the page will automatically refresh, displaying a detailed ribbon to confirm the successful deployment.
+  - Choose the Pages tab, set the Main Branch from the dropdown menu in the source section.
+  - After selecting the Main branch, the page will automatically refresh, displaying a detailed ribbon to confirm the successful deployment.
 
 You can access the live link at this location. - [https://linobollansee.github.io/bytecoding/](https://linobollansee.github.io/bytecoding/)
 
