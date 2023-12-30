@@ -71,15 +71,75 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ## Testing
 
+### IDE-based Testing
+
 - To test the Bytecoding website on the cloud-based Integrated Development Environment (IDE) Codeanywhere, the command "python3 -m http.server" was employed in the terminal window. This command initiated a simple HTTP server using Python version 3. By executing this command, the HTTP server started, allowing for easy access to the site through a web browser. This method of testing provided a quick and convenient way to preview the Bytecoding site in a web environment, ensuring that it functioned correctly and allowing for real-time evaluation of its appearance and functionality.
 
-- Alternatively, the Bytecoding website was tested in a web browser by utilizing  local copies of the website files. This approach functions thanks to the use of relative paths within the source code. However, this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. The local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
+### Local Testing
+
+- Alternatively, the Bytecoding website was tested in a web browser by utilizing  local copies of the website files. The repository was first cloned using the "git clone https://github.com/linobollansee/bytecoding.git" command in a Command Prompt window. Testing with this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. The local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
+
+### DevTools Testing
 
 - The website underwent comprehensive testing using Google Chrome DevTools to ensure optimal performance across various devices. Employing this versatile tool allowed for the simulation of diverse device environments, including smartphones, tablets, and desktops. By emulating different screen sizes, resolutions, and user agent settings, the testing process aimed to identify and address any potential layout or functionality issues that might arise on distinct devices.
 
 - Although low-resolution devices may not allow for the full display of the main page image, it still maintains an aesthetically pleasing appearance, and the menu remains user-friendly.
 
 ![Bytecoding Testing](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_testing.png)
+
+### Online Manual Testing
+
+- A checklist of simple tests was written and completed to make sure the functionalities of the website and repository function as intended.
+
+#### Page Testing
+
+- [x] Testing website [Bytecoding](https://linobollansee.github.io/bytecoding/) PASSED
+- [x] Testing main page link on every page [Bytecoding Main Page](https://linobollansee.github.io/bytecoding/index.html) PASSED
+- [x] Testing programs page link on every page [Bytecoding Programs Page](https://linobollansee.github.io/bytecoding/programs.html) PASSED
+- [x] Testing gallery page link on every page [Bytecoding Gallery Page](https://linobollansee.github.io/bytecoding/gallery.html) PASSED
+- [x] Testing enroll page link on every page [Bytecoding Enroll Page](https://linobollansee.github.io/bytecoding/enroll.html) PASSED
+- [x] Testing enrolled page link [Bytecoding Enrolled Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
+
+#### Form Testing
+
+- [x] Testing submitting form on [Bytecoding Enroll Page](https://linobollansee.github.io/bytecoding/enroll.html) PASSED
+- [x] Testing submitting incomplete form to test `required` HTML attribute on [Bytecoding Enroll Page](https://linobollansee.github.io/bytecoding/enroll.html) PASSED
+
+#### Enrolled Page Testing
+
+- [x] Testing enrolled page [[Bytecoding Enrolled Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
+- [x] Testing enrolled page link to return to the main page [Return to Main Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
+
+#### Footer Link Testing
+
+- [x] Testing footer link [Facebook](https://www.facebook.com/) PASSED
+- [x] Testing footer link [Git](https://git-scm.com/) PASSED
+- [x] Testing footer link [LinkedIn](https://www.linkedin.com/) PASSED
+- [x] Testing footer link [Skype](https://www.skype.com/) PASSED
+- [x] Testing footer link [Telegram](https://telegram.org/) PASSED
+- [x] Testing footer link [Twitter](https://www.twitter.com/) PASSED
+- [x] Testing footer link [WhatsApp](https://www.whatsapp.com/) PASSED
+- [x] Testing footer link [YouTube](https://www.youtube.com/) PASSED
+
+#### Responsive Design Testing
+
+- [x] Testing website on 576 pixels width or higher PASSED
+- [x] Testing website on 768 pixels width or higher PASSED
+- [x] Testing website on 1200 pixels width or higher PASSED
+
+#### Favicon Files Testing
+
+- [x] Testing [Favicon Apple-Touch](https://linobollansee.github.io/bytecoding/assets/favicon/apple-touch-icon.png) PASSED
+- [x] Testing [Favicon 32x32](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-32x32.png) PASSED
+- [x] Testing [Favicon 16x16](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-16x16.png) PASSED
+
+#### CSS File Testing
+
+- [x] Testing [Style CSS](https://linobollansee.github.io/bytecoding/assets/css/style.css) PASSED
+
+#### README File Testing
+
+- [x] Testing [README.md](https://linobollansee.github.io/bytecoding/README.md) PASSED
 
 ### Validator Testing
 
