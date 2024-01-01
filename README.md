@@ -51,6 +51,8 @@ In our project, we've integrated key features to cater to the needs of our users
 
   - They open in new browser windows, guaranteeing that the Bytecoding website itself stays accessible.
 
+  - All the footer icons were manually colored using hexadecimal notation in the CSS stylesheet code.
+
 ![Footer](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_footer.png)
 
 - **Gallery**
