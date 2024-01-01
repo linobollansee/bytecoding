@@ -77,15 +77,21 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ### Local Testing
 
-- Alternatively, the Bytecoding website was tested in a web browser by utilizing  local copies of the website files. The repository was first cloned using the "git clone https://github.com/linobollansee/bytecoding.git" command in a Command Prompt window. Testing with this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. The local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
+- Alternatively, the Bytecoding website was tested in a web browser by utilizing local copies of the website files. The repository was first cloned using the "git clone https://github.com/linobollansee/bytecoding.git" command in a Command Prompt window. Testing with this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. The local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
 
-### DevTools Testing
+### Google Chrome DevTools Testing
 
 - The website underwent comprehensive testing using Google Chrome DevTools to ensure optimal performance across various devices. Employing this versatile tool allowed for the simulation of diverse device environments, including smartphones, tablets, and desktops. By emulating different screen sizes, resolutions, and user agent settings, the testing process aimed to identify and address any potential layout or functionality issues that might arise on distinct devices.
 
 - Although low-resolution devices may not allow for the full display of the main page image, it still maintains an aesthetically pleasing appearance, and the menu remains user-friendly.
 
 ![Bytecoding Testing](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_testing.png)
+
+#### Lighthouse Testing in Chrome DevTools
+
+- The Bytecoding website underwent a comprehensive evaluation using Google Lighthouse, a powerful and versatile web performance auditing tool. The testing encompassed key aspects such as performance, accessibility, progressive web app (PWA) compliance, SEO, and general best practices.
+
+![Lighthouse Testing](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_lighthouse.png)
 
 ### Online Manual Testing
 
@@ -107,7 +113,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 #### Enrolled Page Testing
 
-- [x] Testing enrolled page [[Bytecoding Enrolled Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
+- [x] Testing enrolled page [Bytecoding Enrolled Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
 - [x] Testing enrolled page link to return to the main page [Return to Main Page](https://linobollansee.github.io/bytecoding/enrolled.html) PASSED
 
 #### Footer Link Testing
