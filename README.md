@@ -77,9 +77,11 @@ In our project, we've integrated key features to cater to the needs of our users
 
 - To test the Bytecoding website on the cloud-based Integrated Development Environment (IDE) Codeanywhere, the command "python3 -m http.server" was employed in the terminal window. This command initiated a simple HTTP server using Python version 3. By executing this command, the HTTP server started, allowing for easy access to the site through a web browser. This method of testing provided a quick and convenient way to preview the Bytecoding site in a web environment, ensuring that it functioned correctly and allowing for real-time evaluation of its appearance and functionality.
 
-### Local Testing
+### Git-based Local Testing
 
 - Alternatively, the Bytecoding website was tested in a web browser by utilizing local copies of the website files. The repository was first cloned using the "git clone https://github.com/linobollansee/bytecoding.git" command in a Command Prompt window. Testing with this method is less preferred as it doesn't guarantee that the online version will function exactly as desired. The local testing method doesn't provide a comprehensive assessment of how the website will perform in its intended online environment. Therefore, it is recommended to combine local testing with online testing to ensure the website functions optimally in both settings.
+
+![Bytecoding Git](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_git.png)
 
 ### Google Chrome DevTools Testing
 
