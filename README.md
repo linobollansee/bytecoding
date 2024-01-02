@@ -93,7 +93,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 ![Bytecoding Testing](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_testing.png)
 
-#### Lighthouse Testing in Chrome DevTools
+### Lighthouse Testing in Chrome DevTools
 
 - The Bytecoding website underwent a comprehensive evaluation using Google Lighthouse, a powerful and versatile web performance auditing tool. The testing encompassed key aspects such as performance, accessibility, progressive web app (PWA) compliance, SEO, and general best practices.
 
@@ -171,6 +171,54 @@ In our project, we've integrated key features to cater to the needs of our users
 ### Unfixed Bugs
 
 Upon inspection, the code seems to be devoid of any bugs, indicating a solid foundation. However, the prospect of enhancing its efficiency remains open. There exists the possibility of optimization by scrutinizing and potentially adding, modifying, and eliminating lines from the Love Running project template.
+
+## Issues, Identification, and Solutions
+
+- Issue: CodeAnywhere Outage
+  - Problem Identified: Recognized a critical outage of the cloud-based IDE, CodeAnywhere, causing a disruption in the development workflow.
+  - Solution Implemented: Established a temporary local development environment using Visual Studio Code.
+
+- Issue: Uncertainty regarding the re-establishment of IDE Codeanywhere
+  - Problem Identified: Initiating the Codeanywhere IDE requires an exceptionally extended duration, raising significant uncertainty about its proper functionality.
+  - Solution Implemented: Conducting tests by editing the README.md, as advised by Student Care, to verify regular functionality.
+
+- Issue: Monotonous logo
+  - Problem Identified: Identified a lack of visual appeal in the logo, contributing to a monotonous appearance.
+  - Solution Implemented: Employed CSS text-shadow syntax to enhance and elevate the visual presentation, adding a touch of style to the logo.
+
+- Issue: Incorrect LinkedIn URL
+  - Problem Identified: Clicking the LinkedIn icon failed to redirect the website visitor to the LinkedIn website via the provided URL address.
+  - Solution Implemented: The URL address was corrected on all of the pages.
+
+- Issue: Favicon directory misnamed
+  - Problem Identified: The favicon directory was inadvertently misnamed to its plural form, "favicons," rendering it impossible for the website to load the favicon.
+  - Solution Implemented: The directory was renamed and the changes committed and pushed to the git repository.
+
+- Issue: Wrong file names in the Love Running Template
+  - Problem Identified: The web images present in the HTML and CSS code of the Love Running template are not intended for use on the Bytecoding website.
+  - Solution Implemented: Substituting Bytecoding code and images after removing unnecessary code during the editing process.
+
+- Issue: Website text content unsophisticated
+  - Problem Identified: Writing about specific content becomes challenging without years of experience.
+  - Solution Implemented: Iteratively questioning ChatGPT in anticipation of obtaining potentially omitted information and meticulously validating the information before incorporating it into the website.
+
+- Issue: Google Lighthouse low performance score
+  - Problem Identified: Long loading times are attributed to images in an outdated JPG format and insufficient compression.
+  - Solution Implemented: Employing the current webp format and exploring compression ratios to achieve a meticulous balance between presentation and performance.
+
+- Issue: Unappealing text alignment
+  - Problem Identified: The CSS text-align property of the Love Running template was unappropriate for the Bytecoding website.
+  - Solution Implemented: The line of code was removed to align the text differently.
+
+- Issue: Outdated README.md templates mention the GitHub "main branch" as the formerly used "master branch," which is now considered deprecated.
+  - Problem Identified: Student Lino Bollansee noticed discrepancies when examining examples. Mentor Dick Vlaanderen conclusively raised awareness of the main branch name change, advising the consistent use of up-to-date terminology.
+  - Solution Implemented: Henceforth, within all README.md documentation, the default branch name of a GitHub repository is denoted as the main branch.
+
+- Issue: Challenge of recalling all issues that transpired throughout the project.
+  - Problem Identified: The Code Institute advises comprehensive documentation of the project's issues in the README.md. This leads to the realization that recalling everything will be challenging.
+  - Solution Implemented: The commit history was revisited to directly identify and address corrected issues, as well as to stimulate consideration of challenges resolved outside of any commit history for improved documentation.
+
+Final Remark: This compilation of Issues is NOT considered exhaustive; in reality, the Issues seemed almost limitless, involving many computer restarts!
 
 ## Deployment
 
