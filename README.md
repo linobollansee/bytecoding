@@ -166,7 +166,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 - CSS
   - No errors were detected when testing with the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
-![Jigsaw](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_jigsaw.png)
+    ![Jigsaw](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_jigsaw.png)
 
 ### Unfixed Bugs
 
@@ -225,8 +225,13 @@ Upon inspection, the code seems to be devoid of any bugs, indicating a solid fou
   - Solution Implemented: Henceforth, within all README.md documentation, the default branch name of a GitHub repository is denoted as the "main branch".
 
 - Issue: Challenge of recalling all issues that transpired throughout the project.
+
   - Problem Identified: The Code Institute advises comprehensive documentation of the project's issues in the README.md. This leads to the realization that recalling everything will be challenging.
   - Solution Implemented: The commit history was revisited to directly identify and address corrected issues, as well as to stimulate consideration of challenges resolved outside of any commit history for improved documentation.
+
+- Issue: README.md contains assets links
+  - Problem Identified: Just prior to project submission, a checklist warned against the presence of file link references to the assets directory in the README.md.
+  - Solution Implemented: Removed all links pointing directly to the assets directory, and substituted some with PNG image screenshots.
 
 Final Remark: This compilation of Issues is NOT considered exhaustive; in reality, the Issues seemed almost limitless, involving many computer restarts!
 
