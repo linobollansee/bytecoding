@@ -141,13 +141,13 @@ In our project, we've integrated key features to cater to the needs of our users
 
 #### Favicon Files Testing
 
-- [x] Testing [Favicon Apple-Touch](https://linobollansee.github.io/bytecoding/assets/favicon/apple-touch-icon.png) PASSED
-- [x] Testing [Favicon 32x32](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-32x32.png) PASSED
-- [x] Testing [Favicon 16x16](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-16x16.png) PASSED
+- [x] Testing Favicon Apple-Touch PASSED
+- [x] Testing Favicon 32x32 PASSED
+- [x] Testing Favicon 16x16 PASSED
 
 #### CSS File Testing
 
-- [x] Testing [Style CSS](https://linobollansee.github.io/bytecoding/assets/css/style.css) PASSED
+- [x] Testing Style CSS PASSED
 
 #### README File Testing
 
@@ -320,9 +320,9 @@ You can access the live link at this location. - [https://linobollansee.github.i
 - **[Favicon Converter](https://favicon.io/favicon-converter/)**
 
   - The captivating favicons gracing the Bytecoding website were generated using the efficient and user-friendly online tool, Favicon.io's Favicon Converter. Leveraging the Favicon Converter, the distinctive favicons were effortlessly created to ensure a visually appealing and recognizable representation across various browsers and devices.
-  - [apple touch icon](https://linobollansee.github.io/bytecoding/assets/favicon/apple-touch-icon.png)
-  - [favicon 32x32](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-32x32.png)
-  - [favicon 16x16](https://linobollansee.github.io/bytecoding/assets/favicon/favicon-16x16.png)
+  - apple touch icon
+  - favicon 32x32
+  - favicon 16x16
 
 - **[Pixelied JPG to WEBP Converter](https://pixelied.com/convert/jpg-converter/jpg-to-webp/)**
 
