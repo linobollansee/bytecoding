@@ -166,7 +166,7 @@ In our project, we've integrated key features to cater to the needs of our users
 
 - CSS
   - No errors were detected when testing with the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
-  - [https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flinobollansee.github.io%2Fbytecoding%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+![Jigsaw](https://linobollansee.github.io/bytecoding/readme/media/bytecoding_jigsaw.png)
 
 ### Unfixed Bugs
 
